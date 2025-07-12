@@ -19,6 +19,7 @@ Step 2: To run Back-end
 
   * Open a terminal in VScode
   * Type cd back-end
+  * Type cd pages
   * Type node server.js
 
 Step 3: To run Front-end
